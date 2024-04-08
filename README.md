@@ -1,13 +1,9 @@
-# MITA and its Governance Board
 
-<pre>
 <span style="background-color:#112E51;font-weight:700;font-size:20px">
-![CMS Logo](cms-logo-white.png)
+<img src="cms-logo.png" alt="CMS Logo" width="200"/>
 </span>
-</pre>
-<span style="background-color:#112E51;font-weight:700;font-size:20px">
-![CMS Logo](cms-logo.png)
-</span>
+
+# MITA and its Governance Board
 
 ## Overview
 
