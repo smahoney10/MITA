@@ -2,7 +2,7 @@
 
 <span style="color:green;font-weight:700;font-size:20px">
 ![CMS Logo](images/cms-logo-white.png "CMS Logo")
-
+</span>
   
 ## Overview
 
