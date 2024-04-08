@@ -1,7 +1,7 @@
 
 <span style="background-color:#112E51;font-weight:700;font-size:20px">
 <img src="cms-logo.png" alt="CMS Logo" width="200"/>
-# MITA and its Governance Board
+MITA and its Governance Board
 </span>
 
 
