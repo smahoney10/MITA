@@ -1,5 +1,5 @@
 <div style="width: 100%; height: 105px; background-color:#112E51; color: #ffffff; background-position: center;">
-<img src="cms-logo-white.png" alt="CMS Logo" width="200" style="background-color: #112E51;"/>&nbsp&nbsp&nbsp
+<img src="cms-logo-white.png" alt="CMS Logo" width="200" style="background-color: #112E51; padding: 15px 15px 15px 15px"/>&nbsp&nbsp&nbsp
 MITA and its Governance Board
 </div>
 
