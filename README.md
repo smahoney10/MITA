@@ -2,7 +2,7 @@
 
 <pre>
 <span style="background-color:#112E51;font-weight:700;font-size:20px">
-![CMS Logo](/images/cms-logo-white.png "CMS Logo")
+![CMS Logo](cms-logo-white.png)
 </span>
 </pre>
 
