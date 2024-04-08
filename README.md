@@ -6,7 +6,7 @@
 </span>
 </pre>
 <span style="background-color:#112E51;font-weight:700;font-size:20px">
-![CMS Logo](cms-logo-white.png)
+![CMS Logo](cms-logo.png)
 </span>
 
 ## Overview
