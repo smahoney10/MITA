@@ -1,9 +1,8 @@
 # MITA and its Governance Board
 
-  <h1> 
-    <a href="/{{ site.github.repository_name }}"><img src="{{'/images/cms-logo-white.png' | prepend: site.github.repository_name | prepend: '/'}}"width="200px"class="ds-u-valign--middle"></a>
-    <span class="ds-u-margin-left--2">MES Certification Repository</span>
-  </h1>
+<span style="color:green;font-weight:700;font-size:20px">
+![CMS Logo](images/cms-logo-white.png "CMS Logo")
+
   
 ## Overview
 
