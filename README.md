@@ -7,10 +7,11 @@ MITA and its Governance Board
 
 ## MITA Newsletters
 
-[January 2024](/newsletters/MITANewsletterJanuary2024.pdf){:target="_blank"}
+<a href="/newsletters/MITANewsletterJanuary2024.pdf" target="_blank">January 2024</a>
 &nbsp
-[September 2023](/newsletters/MITANewsletterSeptember2023.pdf){:target="_blank"}
-&nbsp
+<a href="/newsletters/MITANewsletterSeptember2023.pdf" target="_blank">September 2023</a>
+
+
 ## Overview
 
 The purpose of this page is to re-introduce [MITA Framework](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-framework/index.html) to states and keep stakeholders abreast of the work being done by the [MITA Governance Board](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-governance-board-overview/index.html). 
