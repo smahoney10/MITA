@@ -3,7 +3,12 @@
 MITA and its Governance Board
 </div>
 
-[Current Board Members](boardmembers.html))
+[Current Board Members](boardmembers.html)
+
+## MITA Newsletters
+
+[January 20204](/newsletters/MITANewsletterJanuary2024.pdf)
+[September 2023](/newsletters/MITANewsletterSeptember2023.pdf)
 
 ## Overview
 
