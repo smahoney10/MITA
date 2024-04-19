@@ -8,9 +8,9 @@ MITA and its Governance Board
 ## MITA Newsletters
 
 <a href="/newsletters/MITANewsletterJanuary2024.pdf" target="_blank">January 2024</a>
-&nbsp
+&nbsp;
 <a href="/newsletters/MITANewsletterSeptember2023.pdf" target="_blank">September 2023</a>
-
+&nbsp;
 
 ## Overview
 
