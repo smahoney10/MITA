@@ -5,7 +5,7 @@ MITA and its Governance Board
 
 [Current Board Members](boardmembers.html)
  | 
-[FAQ](FAQ.html)
+[FAQ](faq.html)
 
 ## MITA Newsletters & Presentations
 
