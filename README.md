@@ -3,14 +3,17 @@
 MITA and its Governance Board
 </div>
 
-[Current Board Members](boardmembers.html)
-[FAQ](FAQ.html)
-## MITA Newsletters
+    <a href="https://smahoney10.github.io/MITA/">Home</a> &nbsp;|&nbsp;
+    <a href="/boardmembers.html">Board Members</a> &nbsp;|&nbsp;
+    <a href="/faq.html">FAQ</a> &nbsp;|&nbsp;
+
+## MITA Newsletters & Presentations
 
 <a href="/newsletters/MITANewsletterJanuary2024.pdf" target="_blank">January 2024</a>
-&nbsp;
+ &nbsp;|&nbsp;
 <a href="/newsletters/MITANewsletterSeptember2023.pdf" target="_blank">September 2023</a>
-&nbsp;
+ &nbsp;|&nbsp;
+<a href="/newsletters/SneakPeekofMITA.pdf" target="_blank">Sneak Peak of MITA - April 2024</a>
 
 ## Overview
 
