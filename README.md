@@ -4,6 +4,7 @@ MITA and its Governance Board
 </div>
 
 [Current Board Members](boardmembers.html)
+ | 
 [FAQ](FAQ.html)
 
 ## MITA Newsletters & Presentations
