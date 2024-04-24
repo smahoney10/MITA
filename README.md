@@ -3,9 +3,8 @@
 MITA and its Governance Board
 </div>
 
-    <a href="https://smahoney10.github.io/MITA/">Home</a> &nbsp;|&nbsp;
-    <a href="/boardmembers.html">Board Members</a> &nbsp;|&nbsp;
-    <a href="/faq.html">FAQ</a> &nbsp;|&nbsp;
+[Current Board Members](boardmembers.html)
+[FAQ](FAQ.html)
 
 ## MITA Newsletters & Presentations
 
@@ -14,6 +13,7 @@ MITA and its Governance Board
 <a href="/newsletters/MITANewsletterSeptember2023.pdf" target="_blank">September 2023</a>
  &nbsp;|&nbsp;
 <a href="/newsletters/SneakPeekofMITA.pdf" target="_blank">Sneak Peak of MITA - April 2024</a>
+
 
 ## Overview
 
@@ -56,3 +56,5 @@ Interested in Joining an MGB Workgroup? Contact us: <MITAGovBoard@cms.hhs.gov>
 <img src="cms-logo-white.png" alt="CMS Logo" width="200" style="background-color: #112E51;"/>&nbsp&nbsp&nbsp
 This site is maintained by the CMCS Data and Systems Group.
 </div>
+
+[def]: index.html
