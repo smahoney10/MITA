@@ -4,7 +4,7 @@ MITA and its Governance Board
 </div>
 
 [Current Board Members](boardmembers.html)
-
+[FAQ](FAQ.html)
 ## MITA Newsletters
 
 <a href="/newsletters/MITANewsletterJanuary2024.pdf" target="_blank">January 2024</a>
